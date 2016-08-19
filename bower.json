@@ -1,0 +1,22 @@
+{
+  "name": "social-likes",
+  "version": "3.1.1",
+  "license": "MIT",
+  "main": [
+    "dist/social-likes.min.js",
+    "dist/social-likes_classic.css",
+    "dist/social-likes_flat.css",
+    "dist/social-likes_birman.css"
+  ],
+  "ignore": [
+    "**/.*",
+    "contrib/",
+    "Gruntfile.js",
+    "src/",
+    "specs/",
+    "gh-pages/"
+  ],
+  "dependencies": {
+    "jquery": ">=1.8"
+  }
+}
